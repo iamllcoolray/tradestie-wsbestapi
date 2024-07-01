@@ -1,5 +1,7 @@
 package Tradestie::WSBetsAPI::TTM_Squeeze_Stocks;
 
+# ABSTRACT: TTM Squeeze Stocks class
+
 use v5.38;
 use strict;
 use warnings;

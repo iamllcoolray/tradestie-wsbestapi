@@ -1,5 +1,7 @@
 package Tradestie::WSBetsAPI::Reddit;
 
+# ABSTRACT: Reddit Wallstreet Bets class
+
 use v5.38;
 use strict;
 use warnings;

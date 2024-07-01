@@ -1,5 +1,7 @@
 package Tradestie::WSBetsAPI;
 
+# ABSTRACT: Tradestie's Wallstreet Bets API
+
 use v5.38;
 use strict;
 use warnings;
